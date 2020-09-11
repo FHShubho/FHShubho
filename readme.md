@@ -8,4 +8,4 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=FHShubho&show_icons=true)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=FHShubho&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FHShubho&layout=compact&hide=css&hide_border=true)
