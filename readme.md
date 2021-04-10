@@ -4,7 +4,7 @@
 
 > A flawed Human | Undergraduate Student at [North South University](http://www.northsouth.edu/)
 
-  ![ ](https://img.shields.io/github/followers/FHShubho?style=social) [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fhshubho/) ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFHShubho) ![Profile views](https://gpvc.arturio.dev/FHShubho) [![](https://img.shields.io/website?url=https%3A%2F%2Ffhshubho.netlify.app%2F)](https://fhshubho.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a95cabd3-0fd3-49fb-a95f-e2dde461c57b/deploy-status)](https://app.netlify.com/sites/fhshubho/deploys)
+  ![ ](https://img.shields.io/github/followers/FHShubho?style=social) [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fhshubho/) ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFHShubho) ![Profile views](https://gpvc.arturio.dev/FHShubho) [![](https://img.shields.io/website?url=https%3A%2F%2Ffhshubho.netlify.app%2F)](https://fhshubho.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/a95cabd3-0fd3-49fb-a95f-e2dde461c57b/deploy-status)](https://fhshubho.netlify.app/)
 
 
 
