@@ -14,5 +14,7 @@ Graduate of [North South University](http://www.northsouth.edu/)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FHShubho&show_icons=true&hide_border=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FHShubho&layout=compact&hide=css&hide_border=true)
+  
+[![Recent Activity](https://activity-graph.herokuapp.com/graph?username=fhshubho&theme=github)]
 
 </div>
