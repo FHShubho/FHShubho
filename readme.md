@@ -119,6 +119,59 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=7895CB&labelColor=4A55A2&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/FHShubho"/> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/FHShubho?color=7895CB&labelColor=4A55A2&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&color=7895CB&labelColor=4A55A2&url=https://api.github-star-counter.workers.dev/user/FHshubho)
 
 <!--START_SECTION:fhshubho-->
+**🐱 My GitHub Data** 
+
+> 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 162 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 47 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+🌆 Daytime                608 commits         █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌃 Evening                729 commits         ███████████░░░░░░░░░░░░░░   43.86 % 
+🌙 Night                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   384 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Thursday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Friday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Jupyter Notebook         12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+
+
 <!--END_SECTION:fhshubho-->
 
 <p align="center">
