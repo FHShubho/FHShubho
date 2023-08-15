@@ -124,11 +124,10 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 <p align="center">
     <img src="https://stats.hyochan.dev/api/github-stats?login=FHShubho" width="600" />
 </p>
-
 <div style="display=flex; margin=auto">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHShubho&layout=donut-vertical&theme=highcontrast" align="right" height="380"/>
     <img src="https://github-readme-stats.vercel.app/api/?username=FHShubho&show_icons=true&title_color=fff&icon_color=79ff97&theme=highcontrast" width="475" align="left"/>
-    <img src="https://streak-stats.demolab.com?user=FHShubho&theme=highcontrast&hide_border=true" width="475" align="left"/>
+    <img src="https://streak-stats.demolab.com?user=FHShubho&theme=highcontrast&hide_border=false" width="475" align="left"/>
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=FHShubho&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
