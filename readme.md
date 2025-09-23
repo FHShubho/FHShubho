@@ -123,42 +123,14 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 365 Contributions in the Year 2025
+> 🏆 368 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 64 Private Repositories 
+> 🔑 65 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                922 commits         ████████░░░░░░░░░░░░░░░░░   33.83 % 
-🌆 Daytime                622 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌃 Evening                783 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌙 Night                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Tuesday                  318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                449 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Thursday                 254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 450 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Sunday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
