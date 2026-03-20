@@ -123,7 +123,7 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,20 +134,20 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1103 commits        █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌆 Daytime                623 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-🌃 Evening                784 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌞 Morning                1104 commits        █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌆 Daytime                623 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌃 Evening                784 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 🌙 Night                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   543 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Monday                   543 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 Tuesday                  349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Wednesday                475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Friday                   429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Friday                   429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Saturday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 Sunday                   361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 ```
 
