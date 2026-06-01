@@ -123,7 +123,7 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 154 Contributions in the Year 2026
+> 🏆 162 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,14 +131,42 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
  > 
 > 🔑 66 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1176 commits        ██████████░░░░░░░░░░░░░░░   39.25 % 
+🌆 Daytime                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌃 Evening                784 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌙 Night                  413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   563 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Friday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 486 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Sunday                   372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ████████░░░░░░░░░░░░░░░░░   31.88 % 
-Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Python                   22 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
