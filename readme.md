@@ -123,32 +123,32 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 213 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 66 Private Repositories 
+> 🔑 67 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1220 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌆 Daytime                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-🌃 Evening                784 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌙 Night                  413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌞 Morning                1221 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌆 Daytime                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+🌃 Evening                784 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+🌙 Night                  418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Wednesday                491 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Thursday                 297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Friday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Monday                   570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Friday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
 
@@ -162,11 +162,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
