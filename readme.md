@@ -123,32 +123,32 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 228 Contributions in the Year 2026
+> 🏆 281 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 68 Private Repositories 
+> 🔑 69 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1223 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
-🌆 Daytime                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-🌃 Evening                792 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-🌙 Night                  422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌞 Morning                1224 commits        ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌆 Daytime                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌃 Evening                801 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌙 Night                  425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Wednesday                497 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Monday                   570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Tuesday                  367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Wednesday                497 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Thursday                 306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Friday                   460 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 
