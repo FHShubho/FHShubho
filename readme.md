@@ -27,7 +27,7 @@
 <img src="https://komarev.com/ghpvc/?username=FHShubho&style=for-the-badge&color=7895CB&labelColor=4A55A2&label=Profile+Views"> <a href="https://scholar.google.com/citations?user=8qMoh_sAAAAJ&hl=en"><img src="https://mystats.onrender.com/scholar_citations"></a> <a href="https://www.researchgate.net/profile/Fahimul-Shubho"><img src="https://mystats.onrender.com/researchgate_reads"></a> 
 ![Discord](https://img.shields.io/discord/703531219899383848?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=4A55A2&color=gray) <img src="https://mystats.onrender.com/valorant_matches">  
 
-I am currently pursuing my Master's degree in Computer Science and Engineering, specializing in Intelligent Systems, at [North South University](http://www.northsouth.edu/). I also have a Bachelor's degree in Computer Science and Engineering, specializing in Artificial Intelligence, from the same institution. Currently researching AI & Zero-shot Learning and working as a Machine Learning Engineer at Genweb2 Limited.  
+Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Master's degree in Computer Science and Engineering, specializing in Intelligent Systems, at [North South University](http://www.northsouth.edu/). Also working as a Senior Machine Learning Engineer, developing and deploying impactful real-world ML and AI solutions globally.  
 
 ![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)
 
