@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake-dark_update.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake_update.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake_update.svg" />
 </picture>
 </div>
 
@@ -21,10 +21,10 @@
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width ="40"> About Me</h2>
 
-<img align="right" width=300px alt="" src="https://github.com/FHShubho/FHShubho/blob/7270cab5f5ca792358910f0c58eeb8eba522c730/res/avatar.gif" />
+<img align="right" width=300px alt="" src="https://raw.githubusercontent.com/FHShubho/FHShubho/7270cab5f5ca792358910f0c58eeb8eba522c730/res/avatar.gif" />
 
-<a href="mailto:hoque.shubho@northsouth.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FHShubho) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/fhshubho/)) [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/duI0jJxHHnec) <a href="https://fhshubho.netlify.app/"><img alt="Website" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&logo=aiohttp&url=https%3A%2F%2Ffhshubho.netlify.app"></a> 
-<img src="https://mystats.onrender.com/github_views"> <a href="https://scholar.google.com/citations?user=8qMoh_sAAAAJ&hl=en"><img src="https://mystats.onrender.com/scholar_citations"></a> <a href="https://www.researchgate.net/profile/Fahimul-Shubho"><img src="https://mystats.onrender.com/researchgate_reads"></a> 
+<a href="mailto:hoque.shubho@northsouth.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FHShubho) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhshubho/) [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/duI0jJxHHnec) <a href="https://fhshubho.netlify.app/"><img alt="Website" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&logo=aiohttp&url=https%3A%2F%2Ffhshubho.netlify.app"></a> 
+<img src="https://komarev.com/ghpvc/?username=FHShubho&style=for-the-badge&color=7895CB&labelColor=4A55A2&label=Profile+Views"> <a href="https://scholar.google.com/citations?user=8qMoh_sAAAAJ&hl=en"><img src="https://mystats.onrender.com/scholar_citations"></a> <a href="https://www.researchgate.net/profile/Fahimul-Shubho"><img src="https://mystats.onrender.com/researchgate_reads"></a> 
 ![Discord](https://img.shields.io/discord/703531219899383848?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=4A55A2&color=gray) <img src="https://mystats.onrender.com/valorant_matches">  
 
 I am currently pursuing my Master's degree in Computer Science and Engineering, specializing in Intelligent Systems, at [North South University](http://www.northsouth.edu/). I also have a Bachelor's degree in Computer Science and Engineering, specializing in Artificial Intelligence, from the same institution. Currently researching AI & Zero-shot Learning and working as a Machine Learning Engineer at Genweb2 Limited.  
@@ -52,7 +52,7 @@ I am currently pursuing my Master's degree in Computer Science and Engineering, 
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
 	</div>
 	<div align="center">
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -180,16 +180,13 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:fhshubho-->
 
-<p align="center">
-    <img src="https://stats.hyochan.dev/api/github-stats?login=FHShubho" width="600" />
-</p>
 <div style="display=flex; margin=auto">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHShubho&layout=donut-vertical&theme=highcontrast" align="right" height="380"/>
     <img src="https://github-readme-stats.vercel.app/api/?username=FHShubho&show_icons=true&title_color=fff&icon_color=79ff97&theme=highcontrast" width="475" align="left"/>
     <img src="https://streak-stats.demolab.com?user=FHShubho&theme=highcontrast&hide_border=false" width="475" align="left"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=FHShubho&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FHShubho&theme=github_dark" width="600" />
 
 <p align="left" style="margin-bottom=-50">
     <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
