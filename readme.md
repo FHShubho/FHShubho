@@ -123,7 +123,7 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,666 Contributions in the Year 2026
+> 🏆 3,817 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,21 +134,21 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1496 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌆 Daytime                2975 commits        ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌃 Evening                1767 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌙 Night                  1574 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌞 Morning                1651 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌆 Daytime                3709 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌃 Evening                2282 commits        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+🌙 Night                  1835 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1450 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Tuesday                  1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Wednesday                1439 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Thursday                 1155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   1180 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Saturday                 702 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Sunday                   678 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Monday                   1906 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Tuesday                  1830 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Wednesday                1815 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Thursday                 1297 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   1225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 712 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Sunday                   692 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 
