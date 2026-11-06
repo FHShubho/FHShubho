@@ -123,7 +123,7 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 5,000 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,7 +136,7 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 ```text
 🌞 Morning                1780 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 🌆 Daytime                5650 commits        ███████████░░░░░░░░░░░░░░   45.76 % 
-🌃 Evening                2722 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌃 Evening                2723 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 🌙 Night                  2195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -145,7 +145,7 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 Monday                   1971 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Tuesday                  2288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 Wednesday                2595 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Thursday                 2125 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Thursday                 2126 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 Friday                   1756 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Saturday                 903 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 Sunday                   709 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
