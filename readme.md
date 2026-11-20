@@ -1,12 +1,3 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake-dark_update.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake_update.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake_update.svg" />
-</picture>
-</div>
-
-
 <div>
   <ul align="center">
     <h2 style="display: inline-block">Aww <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="left:50%; top:50%; margin-top:-40px;" height="50"> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" style="margin-top:-10px;"/> </h2>
@@ -101,7 +92,6 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 	<div align="center">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
     </div>
 	<div align="center">
@@ -118,6 +108,7 @@ Officially tagged as Fahimul Hoque Shubho. I have completed my Bachelor and Mast
 
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=7895CB&labelColor=4A55A2&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/FHShubho"/> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/FHShubho?color=7895CB&labelColor=4A55A2&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&color=7895CB&labelColor=4A55A2&url=https://api.github-star-counter.workers.dev/user/FHshubho)
 
+<<<<<<< HEAD
 <!--START_SECTION:fhshubho-->
 **🐱 My GitHub Data** 
 
@@ -180,6 +171,8 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:fhshubho-->
 
+=======
+>>>>>>> 2c69eba (Remove GitHub Actions workflow and related README sections)
 <div style="display=flex; margin=auto">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHShubho&layout=donut-vertical&theme=highcontrast" align="right" height="380"/>
     <img src="https://github-readme-stats.vercel.app/api/?username=FHShubho&show_icons=true&title_color=fff&icon_color=79ff97&theme=highcontrast" width="475" align="left"/>
